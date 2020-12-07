@@ -1,3 +1,9 @@
+Saad Kulumba
+6404 Central Ave Newark, CA, 94560 
+(415)-351-8085∙ saad.kulumba7@gmail.com
+Fully Work Authorized ∙ No Visa Sponsorship Required
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/skulumba/digital-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
