@@ -1,7 +1,7 @@
-Saad Kulumba
-6404 Central Ave Newark, CA, 94560 
-(415)-351-8085∙ saad.kulumba7@gmail.com
-Fully Work Authorized ∙ No Visa Sponsorship Required
+Saad Kulumba<br/>
+Newark,CA<br/> 
+(415)-351-8085∙ skulumba@outlook.com<br/>
+Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 
 ## Welcome to GitHub Pages
