@@ -8,11 +8,11 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 - Python
 - SQL/MySQL
 - Java
--
+- HTML/CSS
 
 ### Projects
 Distributed Traffic Analysis of Backbone Link data 
-Collected and stored Network data on hadoop HDFS, Processed and produced insights in data through visualisations
+- Collected and stored Network data on hadoop HDFS, Processed and produced insights in data through visualisations
 
 ### Work Experience
 **QA, Usability and UX Tester - Remote** @ [Test Birds](https://www.testbirds.com/),05/2018 - Present                                                                             
