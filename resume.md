@@ -1,6 +1,6 @@
 # Saad Kulumba
 
-📱(415)-351-8085 / [📧Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) /[Dev](https://dev.to/skulumba)</br>
+📱(415)-351-8085 / [📧Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Dev](https://dev.to/skulumba)</br>
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 ## Key Skills
@@ -27,6 +27,10 @@ _Masters of Arts (MA), Business Information Systems -Thesis , 06/2020_
 
  Gediz University,Izmir,Turkey 
 _Bachelor of Science (BSc),Computer Engineering, 02/2016_
+ 
+ 💬 Languages
+ -English fluent 
+ -Turkish working proficency
  
 **PROFESSIONAL DEVELOPMENT/AFFILIATIONS** 
 -Google IT support professional Certificate (Coursera) 2019 
