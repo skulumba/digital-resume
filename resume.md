@@ -3,7 +3,7 @@
 (415)-351-8085 / skulumba@outlook.com / [Linkedin](https://www.linkedin.com/in/kulzsadz/) </br>
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
-# Key Skills
+## Key Skills
 - Python
 - SQL
 - Java
