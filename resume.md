@@ -1,6 +1,6 @@
-##Saad Kulumba
-Newark,CA<br/> 
-<div align="center">(415)-351-8085 | skulumba@outlook.com|[linkedin](https://www.linkedin.com/in/kulzsadz/) </div><br/>
+## Saad Kulumba
+
+(415)-351-8085 | skulumba@outlook.com|[linkedin](https://www.linkedin.com/in/kulzsadz/) 
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 # Key Skills
