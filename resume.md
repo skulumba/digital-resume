@@ -1,6 +1,6 @@
 # Saad Kulumba
 
-[📧Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
+[Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 ## Key Skills
