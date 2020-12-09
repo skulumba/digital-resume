@@ -22,15 +22,15 @@ Distributed Traffic Analysis of Backbone Link data
 
 
 # Education
-Dokuz Eylul Unversity,Izmir,Turkey 
-_Masters of Arts (MA), Business Information Systems -Thesis , 06/2020_ 
+Dokuz Eylul Unversity,Izmir,Turkey</br>    
+_Masters of Arts (MA), Business Information Systems -Thesis , 06/2020_</br>    
 
- Gediz University,Izmir,Turkey 
-_Bachelor of Science (BSc),Computer Engineering, 02/2016_
+ Gediz University,Izmir,Turkey</br>    
+_Bachelor of Science (BSc),Computer Engineering, 02/2016_</br>   
  
  #💬 Languages
- -English fluent 
- -Turkish working proficency
+ -English fluent</br>    
+ -Turkish working proficency</br>   
  
 **PROFESSIONAL DEVELOPMENT/AFFILIATIONS** 
 -Google IT support professional Certificate (Coursera) 2019 
