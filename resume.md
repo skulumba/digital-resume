@@ -1,4 +1,5 @@
 ## Saad Kulumba
+Machine Learning enthusiat and pationate learner 
 
 [Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
@@ -11,7 +12,7 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 ### Projects
 Distributed Traffic Analysis of Backbone Link data 
-
+Collected and stored Network data on hadoop HDFS, Processed and produced insights in data through visualisations
 
 ### Work Experience
 **QA, Usability and UX Tester - Remote** @ [Test Birds](https://www.testbirds.com/),05/2018 - Present                                                                             
@@ -27,7 +28,7 @@ Distributed Traffic Analysis of Backbone Link data
 _Machine Learning foundations course, 2020_</br>
 [Udacity / Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)</br>    
  - Machine Learning concepts and navigating MS Azure for ML
- - Navigating Ml studio and building models using Auto Ml
+ - Navigating Ml studio and building models using Auto ML
  
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
