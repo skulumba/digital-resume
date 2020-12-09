@@ -11,7 +11,7 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 ### Projects
 Distributed Traffic Analysis of Backbone Link data 
 
-
+### Work Experience
 Software Engineer Intern @[FINS](https://www.fins.com.tr/Default.asp),Istanbul,Turkey 06/2015 – 09/2015                                                                           
 - Developed new features such as e-mail notifications in PHP for the company's e-commerce website and enhanced existing user by modifying CSS.
 - Built new web forms in Php/My SQL and integrated them to the company’s website which helped get rid of paper-based filing
