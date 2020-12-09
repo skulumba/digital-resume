@@ -1,5 +1,5 @@
 ## Saad Kulumba
-Machine Learning enthusiat and pationate learner 
+AI/ Machine Learning enthusiast and pationate learner 
 
 [Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
