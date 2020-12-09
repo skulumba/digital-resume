@@ -1,6 +1,6 @@
 ## Saad Kulumba
 
-Mobile: (415)-351-8085 / [Email:](mailto:skulumba@outlook.com) / [Linkedin:](https://www.linkedin.com/in/kulzsadz/) </br>
+📱(415)-351-8085 / [📧Email](mailto:skulumba@outlook.com) / [Linkedin:](https://www.linkedin.com/in/kulzsadz/) </br>
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 ## Key Skills
