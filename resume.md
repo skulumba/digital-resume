@@ -22,10 +22,10 @@ Distributed Traffic Analysis of Backbone Link data
 
 
 # Education
-**_Masters of Arts (MA)**, Business Information Systems -Thesis , 06/2020_</br>
+**_Masters of Arts (MA)_**_, Business Information Systems -Thesis , 06/2020_</br>
 [Dokuz Eylul Unversity](https://sbe.deu.edu.tr/en/), Izmir,Turkey</br>    
     
-**_Bachelor of Science (BSc)**,Computer Engineering, 02/2016_</br>
+**_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
    
  # 💬 Languages
