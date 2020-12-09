@@ -28,7 +28,7 @@ Distributed Traffic Analysis of Backbone Link data
 _Machine Learning foundations course, 2020_</br>
 [Udacity / Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)</br>    
  - Machine Learning concepts and navigating MS Azure for ML
- - Navigating Ml studio and building models using Auto ML
+ - Navigating ML studio and building models using Auto ML
  
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
