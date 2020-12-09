@@ -1,7 +1,7 @@
-<p align="center">Saad Kulumba<br/>
+align="center">Saad Kulumba<br/>
 Newark,CA<br/> 
 (415)-351-8085 | skulumba@outlook.com|[linkedin](https://www.linkedin.com/in/kulzsadz/) <br/>
-Fully Work Authorized ∙ No Visa Sponsorship Required<br/></p>
+Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 # Key Skills
 - Python
