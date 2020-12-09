@@ -17,8 +17,9 @@ Software Engineer Intern @[FINS](https://www.fins.com.tr/Default.asp),Istanbul,T
 - Built new web forms in Php/My SQL and integrated them to the company’s website which helped get rid of paper-based filing
 
 ### Education
-**_Masters of Arts (MA)_**_, Business Information Systems -Thesis , 06/2020_</br>
-[Dokuz Eylul Unversity](https://sbe.deu.edu.tr/en/), Izmir,Turkey</br>    
+
+**Machine Learning foundations , 06/2020_</br>
+[Udacity/Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333), 2020</br>    
     
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
