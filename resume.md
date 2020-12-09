@@ -28,7 +28,7 @@ _Masters of Arts (MA), Business Information Systems -Thesis , 06/2020_
  Gediz University,Izmir,Turkey 
 _Bachelor of Science (BSc),Computer Engineering, 02/2016_
  
- 💬 Languages
+ #💬 Languages
  -English fluent 
  -Turkish working proficency
  
