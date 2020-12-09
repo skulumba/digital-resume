@@ -18,8 +18,8 @@ Software Engineer Intern @[FINS](https://www.fins.com.tr/Default.asp),Istanbul,T
 
 ### Education
 
-**Machine Learning foundations , 06/2020_</br>
-[Udacity/Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333), 2020</br>    
+_Machine Learning foundations course, 2020</br>
+[Udacity / Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)</br>    
     
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
