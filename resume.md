@@ -1,4 +1,4 @@
-##Saad Kulumba<br/>
+##Saad Kulumba
 Newark,CA<br/> 
 <div align="center">(415)-351-8085 | skulumba@outlook.com|[linkedin](https://www.linkedin.com/in/kulzsadz/) </div><br/>
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
@@ -15,7 +15,6 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 
 # Education
