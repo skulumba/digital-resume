@@ -1,22 +1,13 @@
-<div align="center">Saad Kulumba<br/>
+<p align="center">Saad Kulumba<br/>
 Newark,CA<br/> 
 (415)-351-8085 | skulumba@outlook.com|[linkedin](https://www.linkedin.com/in/kulzsadz/) <br/>
-Fully Work Authorized ∙ No Visa Sponsorship Required<br/></div>
+Fully Work Authorized ∙ No Visa Sponsorship Required<br/></p>
 
 # Key Skills
 - Python
 - SQL
 - Java
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
@@ -26,12 +17,18 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Education
+**Masters of Arts (MA), Business Information Systems -Thesis , 06/2020** 
+Dokuz Eylul Unversity,Izmir,Turkey 
+ 
+**Bachelor of Science (BSc),Computer Engineering, 02/2016**
+Gediz University,Izmir,Turkey  
+•Project: Distributed Traffic Analysis of Backbone Link data on Cloud Computing Infrastructure stored network backbone data, processed and visualized it. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skulumba/digital-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**PROFESSIONAL DEVELOPMENT/AFFILIATIONS** 
+-Google IT support professional Certificate (Coursera) 2019 
+-AWS Innovation Online Conference,Machine Learning and Artificial intelligence 2019 
+- ODSC West Open Data Science & AI Conference, San Francisco, CA 2019 
+-Google Developers Conferences (GDG Izmir), Izmir, Turkey 2016,2017 
+-AW Some day, Amazon web services and cloud computing, Istanbul, Turkey, 2015 
