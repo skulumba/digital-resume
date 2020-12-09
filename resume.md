@@ -1,12 +1,16 @@
 # Saad Kulumba
 
-📱(415)-351-8085 / [📧Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) </br>
+📱(415)-351-8085 / [📧Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) /[Dev](https://dev.to/skulumba)</br>
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 ## Key Skills
 - Python
 - SQL
 - Java
+
+#Projects
+Distributed Traffic Analysis of Backbone Link data 
+
 
 
 1. Numbered
@@ -18,13 +22,12 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
 
 # Education
-**Masters of Arts (MA), Business Information Systems -Thesis , 06/2020** 
 Dokuz Eylul Unversity,Izmir,Turkey 
- 
-**Bachelor of Science (BSc),Computer Engineering, 02/2016**
-Gediz University,Izmir,Turkey  
-•Project: Distributed Traffic Analysis of Backbone Link data on Cloud Computing Infrastructure stored network backbone data, processed and visualized it. 
+_Masters of Arts (MA), Business Information Systems -Thesis , 06/2020_ 
 
+ Gediz University,Izmir,Turkey 
+_Bachelor of Science (BSc),Computer Engineering, 02/2016_
+ 
 **PROFESSIONAL DEVELOPMENT/AFFILIATIONS** 
 -Google IT support professional Certificate (Coursera) 2019 
 -AWS Innovation Online Conference,Machine Learning and Artificial intelligence 2019 
