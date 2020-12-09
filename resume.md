@@ -1,14 +1,14 @@
-# Saad Kulumba
+## Saad Kulumba
 
 [Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 
-## Key Skills
+### Key Skills
 - Python
 - SQL
 - Java
 
-## Projects
+### Projects
 Distributed Traffic Analysis of Backbone Link data 
 
 
@@ -16,18 +16,18 @@ Software Engineer Intern @[FINS](https://www.fins.com.tr/Default.asp),Istanbul,T
 - Developed new features such as e-mail notifications in PHP for the company's e-commerce website and enhanced existing user by modifying CSS.
 - Built new web forms in Php/My SQL and integrated them to the company’s website which helped get rid of paper-based filing
 
-## Education
+### Education
 **_Masters of Arts (MA)_**_, Business Information Systems -Thesis , 06/2020_</br>
 [Dokuz Eylul Unversity](https://sbe.deu.edu.tr/en/), Izmir,Turkey</br>    
     
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
    
-## Languages
+### Languages
  - English fluent  
  - Turkish working proficency   
  
-## Professional Development/Affliations
+### Professional Development/Affliations
 - Google IT support professional Certificate (Coursera) 2019 
 - AWS Innovation Online Conference,Machine Learning and Artificial intelligence 2019 
 - ODSC West Open Data Science & AI Conference, San Francisco, CA 2019 
