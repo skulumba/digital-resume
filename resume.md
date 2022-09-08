@@ -26,7 +26,7 @@ Distributed Traffic Analysis of Backbone Link data
 
 ### Education
 
-**_Master's (MS)_**_,Computer Science, 12/2023_</br>
+**_Master's (MS)_**_,Computer Science, expected - 12/2023_</br>
 [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/), Urbana,IL</br>
 
 **_Masters of Science (MSc)_**_,Business Information Systems, 06/2019_</br>
