@@ -33,6 +33,9 @@ _Machine Learning foundations course, 2020_</br>
 **_Master's (MS)_**_,Computer Science, 12/2023_</br>
 [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/), Urbana,IL</br>
 
+**_Masters of Science (MSc)_**_,Business Information Systems, 06/2019_</br>
+[Dokuz Eylul University](https://debis.deu.edu.tr/ders-katalog/2019-2020/eng/bolum_9663_eng.html), Izmir,Turkey</br> 
+
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
 
