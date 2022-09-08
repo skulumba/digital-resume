@@ -29,7 +29,9 @@ _Machine Learning foundations course, 2020_</br>
 [Udacity / Microsoft](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)</br>    
  - Machine Learning concepts and navigating MS Azure for ML
  - Navigating ML studio and building models using Auto ML
- 
+**_Master's (MS)_**_,Computer Science, 12/2023_</br>
+[University of Illinois Urbana-Champaign](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>
+
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
 [Gediz University](https://en.wikipedia.org/wiki/Gediz_University), Izmir,Turkey</br>  
 
@@ -40,7 +42,4 @@ _Machine Learning foundations course, 2020_</br>
 - ODSC West Open Data Science & AI Conference, San Francisco, CA 2019 
 
 
-### Hobbies
- - Soccer  
- - Traveling
- - hicking
+
