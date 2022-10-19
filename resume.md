@@ -1,5 +1,5 @@
 ## Saad Kulumba
-AI/ Machine Learning enthusiast and pationate learner 
+Data engineering|Machine learning  
 
 [Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
@@ -15,7 +15,7 @@ Distributed Traffic Analysis of Backbone Link data
 - Collected and stored Network data on hadoop HDFS, Processed and produced insights in data through visualisations.
 
 ### Work Experience
-**QA, Usability and UX Tester - Remote** @ [Test Birds](https://www.testbirds.com/),05/2018 - Present                                                                             
+**QA, Usability and UX Tester - Remote** @ [Test Birds](https://www.testbirds.com/),05/2018 - Present                                                                         
 - Test websites to identify bugs, usability issues and provided feedback in form of reports. This helps clients improve on their digital products.
 - Study features of mobile apps such as bank apps and give feedback according to desired criteria to help clients improve on their product designs. Test birds clients have now increased to over 150 with 80% local customers.
 
