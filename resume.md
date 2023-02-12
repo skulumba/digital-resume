@@ -7,7 +7,7 @@ Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
 ### Key Skills
 - Python
 - SQL/MySQL
-- Java
+- AWS
 - HTML/CSS
 
 ### Projects
