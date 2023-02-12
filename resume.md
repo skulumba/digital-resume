@@ -1,5 +1,5 @@
 ## Saad Kulumba
-Data engineering|Machine learning  
+Data Analytics|Machine learning  
 
 [Email](mailto:skulumba@outlook.com) / [Linkedin](https://www.linkedin.com/in/kulzsadz/) / [Twitter](https://twitter.com/skulsoft) / [Dev](https://dev.to/skulumba)</br>   
 Fully Work Authorized ∙ No Visa Sponsorship Required<br/>
@@ -29,7 +29,7 @@ Distributed Traffic Analysis of Backbone Link data
 **_Master's (MS)_**_,Computer Science, expected - 12/2023_</br>
 [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/), Urbana,IL</br>
 
-**_Masters of Science (MSc)_**_,Business Information Systems, 06/2019_</br>
+**_Masters of Science (MSc)_**_,Business Information Systems, 09/2020_</br>
 [Dokuz Eylul University](https://debis.deu.edu.tr/ders-katalog/2019-2020/eng/bolum_9663_eng.html), Izmir,Turkey</br> 
 
 **_Bachelor of Science (BSc)_**_,Computer Engineering, 02/2016_</br>
